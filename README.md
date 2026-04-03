@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+nuqs = a library that helps you sync state with URL query params
 
-## Getting Started
+nextjs-toploader = a lightweight library that shows a loading progress bar at the top of the page when navigating between routes in a Next.js app.
 
-First, run the development server:
+next.headers = inbuild library used to retive keys stores in cookieStore
+
+next-themes = a library that helps you add dark mode / light mode
+
+@tabler/icons-react = Tabler Icons provides a React package called
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+bun add @tabler/icons-react
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+kbar = a library that lets you add a command palette to your app.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+tailwind-merge = helps you resolve conflicting Tailwind classes
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+clsx = helps you conditionally add classes
 
-## Learn More
+class-variance-authority = helps you create scalable, reusable component variants.
 
-To learn more about Next.js, take a look at the following resources:
+👉 Instead of messy conditionals (clsx everywhere), you define structured styles.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+@faker-js/faker = a library used to generate realistic fake data for development.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+@radix-ui/react-avatar =
+A fully accessible Avatar component (profile image UI)
 
-## Deploy on Vercel
+Works in Client Components
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+@radix-ui/react-collapsible= A component to show / hide content (expand & collapse)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+@radix-ui/react-dialog
+@radix-ui/react-dropdown-menu
+@radix-ui/react-scroll-area
+@radix-ui/react-popover
+@radix-ui/react-tooltip
+
+match-sorter
+radix-ui
+recharts
+zustand
+@tanstack/react-query
+@tanstack/react-query-devtools
+@clerk/nextjs
+@clerk/themes
+tailwindcss-animate
